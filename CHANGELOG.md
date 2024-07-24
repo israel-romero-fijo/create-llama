@@ -1,5 +1,11 @@
 # create-llama
 
+## 0.1.22
+
+### Patch Changes
+
+- df9cca5: Upgrade pdf viewer
+
 ## 0.1.21
 
 ### Patch Changes
